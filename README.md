@@ -1,0 +1,2 @@
+- 👋 Hi, I’m HamidRezaTaebi
+- I work in the field of avr and arm microcontrollers and development boards and IoT and I am also interested in web development.
